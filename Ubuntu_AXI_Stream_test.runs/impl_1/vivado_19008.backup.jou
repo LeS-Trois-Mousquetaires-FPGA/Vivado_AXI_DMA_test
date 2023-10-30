@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Mon Oct 30 12:37:19 2023
+# Process ID: 19008
+# Current directory: D:/Smart_ZYNQ_7010/Ubuntu_AXI_Stream_test/Ubuntu_AXI_Stream_test.runs/impl_1
+# Command line: vivado.exe -log ZYNQ_CORE_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ZYNQ_CORE_wrapper.tcl -notrace
+# Log file: D:/Smart_ZYNQ_7010/Ubuntu_AXI_Stream_test/Ubuntu_AXI_Stream_test.runs/impl_1/ZYNQ_CORE_wrapper.vdi
+# Journal file: D:/Smart_ZYNQ_7010/Ubuntu_AXI_Stream_test/Ubuntu_AXI_Stream_test.runs/impl_1\vivado.jou
+# Running On: DESKTOP-DD3FGS6, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 68437 MB
+#-----------------------------------------------------------
+source ZYNQ_CORE_wrapper.tcl -notrace

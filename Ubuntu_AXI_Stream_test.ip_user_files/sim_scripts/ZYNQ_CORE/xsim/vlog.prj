@@ -1,0 +1,27 @@
+verilog xil_defaultlib --include "D:/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/ec67/hdl" --include "../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/ee60/hdl" --include "../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_processing_system7_0_0/sim/ZYNQ_CORE_processing_system7_0_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_util_vector_logic_0_0/sim/ZYNQ_CORE_util_vector_logic_0_0.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_dmul_64ns_64ns_64_14_full_dsp_1.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_fcmp_32ns_32ns_1_4_no_dsp_1.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_flow_control_loop_pipe_no_ap_cont.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_fpext_32ns_64_4_no_dsp_1.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_fptrunc_64ns_32_5_no_dsp_1.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_hls_deadlock_idx0_monitor.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain_regslice_both.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/verilog/doGain.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/ip/doGain_dmul_64ns_64ns_64_14_full_dsp_1_ip.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/ip/doGain_fcmp_32ns_32ns_1_4_no_dsp_1_ip.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/ip/doGain_fpext_32ns_64_4_no_dsp_1_ip.v" \
+"../../../../Ubuntu_AXI_Stream_test.gen/sources_1/bd/ZYNQ_CORE/ipshared/0a84/hdl/ip/doGain_fptrunc_64ns_32_5_no_dsp_1_ip.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_doGain_0_0/sim/ZYNQ_CORE_doGain_0_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_xbar_0/sim/ZYNQ_CORE_xbar_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_xlconcat_0_0/sim/ZYNQ_CORE_xlconcat_0_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_auto_pc_0/sim/ZYNQ_CORE_auto_pc_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_auto_us_0/sim/ZYNQ_CORE_auto_us_0.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_auto_us_1/sim/ZYNQ_CORE_auto_us_1.v" \
+"../../../bd/ZYNQ_CORE/ip/ZYNQ_CORE_auto_pc_1/sim/ZYNQ_CORE_auto_pc_1.v" \
+"../../../bd/ZYNQ_CORE/sim/ZYNQ_CORE.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
